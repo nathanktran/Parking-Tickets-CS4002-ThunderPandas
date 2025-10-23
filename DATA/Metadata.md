@@ -31,5 +31,5 @@ The Charlottesville Parking Tickets dataset is a highly objective resource deriv
 | WaiverStatus         | Outcome/status of the waiver request                                        | "Granted", "Denied", "Pending"                                                                         |
 
 ## Exploratory Plots
-![Tickets by Day of Week and Hour](DATA/Tickets%20by%20Hour.png)
-![Number of Tickets Over Time](DATA/Number%20of%20Tickets.png)
+![Tickets by Day of Week and Hour](Tickets%20by%20Hour.png)
+![Number of Tickets Over Time](Number%20of%20Tickets.png)
