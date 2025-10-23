@@ -18,3 +18,22 @@ To set up all dependencies, refer to requirements.txt or manually install these 
 # Section 2: A Map of your documentation.
 
 # Section 3: Instructions for reproducing your results.
+To reproduce the results in this repository, follow these steps:
+1. **Clone this repository:**
+
+```
+git clone https://github.com/nathanktran/Parking-Tickets-CS4002-ThunderPandas.git
+cd Parking-Tickets-CS4002-ThunderPandas
+```
+
+2. **Set up the Python environment:**
+In the scripts folder, access requirements.txt and run:
+```
+pip install -r requirements.txt
+```
+Otherwise, install dependencies manually (see Software and Platform)
+
+3. **Acquire the Data**
+If the 
+
+
