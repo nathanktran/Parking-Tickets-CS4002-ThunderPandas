@@ -7,6 +7,11 @@ This project was developed and tested using Python 3 in Google Colab (cloud Linu
 **Primary software and libraries:**
 
 - Python 3.8+ (tested on Google Colab)
+- scikit-learn
+- pandas
+- matplotlib
+- seaborn
+- transformers 
 
 To set up all dependencies, refer to requirements.txt or manually install these packages using pip:
 
