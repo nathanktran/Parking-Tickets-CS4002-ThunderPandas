@@ -33,7 +33,15 @@ pip install -r requirements.txt
 ```
 Otherwise, install dependencies manually (see Software and Platform)
 
-3. **Acquire the Data**
-If the 
+3. **Acquire the data**
+- If Parking_Tickets.csv is available in the DATA/ folder, no further action needed
+- If the data is too large to store on GitHub, follow the instructions in DATA/Metadata.md to download the original Parking Ticket dataset from the [City of Charlottesville](https://opendata.charlottesville.org/search?q=parking%20tickets)
+
+4. **Run all scripts in order**
+- Change into the SCRIPTS/ directory, and run each numbered script sequentially to clean the data, engineer features, train models, and evaluate.
+- Each script is heavily commented and includes header docstrings describing functionality and expected inputs/outputs.
+
+5. **View results**
+- All output files (accuracy scores, plots, and tables) will be automatically generated in the OUTPUT/ folder
 
 
