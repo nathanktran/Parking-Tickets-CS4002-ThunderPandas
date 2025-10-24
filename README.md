@@ -1,7 +1,7 @@
 # Parking-Tickets-CS4002-ThunderPandas
 ## This repository supports the Parking Ticket Prediction project by Team Thunder Pandas. The goal of the project is to use data to forecast parking violations in Charlottesville on a street-level view. This repository is organized for reproducibility and clarity, following best practices for open data science projects. It contains all scripts, data documentation, outputs, and supporting files needed to understand, reproduce, and extend the analyses.
 
-# Section 1: Software and platform section
+# Software and Platform
 This project was developed and tested using Python 3 in Google Colab (cloud Linux environment), but can be run locally on any modern Windows, Mac, or Linux machine with the necessary Python packages installed.
 
 **Primary software and libraries:**
@@ -15,9 +15,9 @@ This project was developed and tested using Python 3 in Google Colab (cloud Linu
 
 To set up all dependencies, refer to requirements.txt or manually install these packages using pip:
 
-# Section 2: A Map of your documentation.
+# Section 2: Documentation
 
-# Section 3: Instructions for reproducing your results.
+# Section 3: Reproduction
 To reproduce the results in this repository, follow these steps:
 1. **Clone this repository:**
 
