@@ -23,51 +23,43 @@ To set up all dependencies, refer to requirements.txt or manually install these 
 ├── LICENSE.md # MIT License for all code in this repository
 
 
-├── SCRIPTS/ # All source code scripts
+├── SCRIPTS/
 
-│ ├──   DS4002_Complete_Project1_FakeNewsClassification_ThunderPandas.ipynb
+│ ├──   Script1_time_series_analysis.ipynb
 
-│ ├──   bert_binary_model.py
-
-│ ├──   adding data into scripts for and adding scripts
-
-│ ├──   bert_multiclass_model.py
+│ ├──   Script2_hotspot_prediction_model.ipynb
 
 │ ├──   requirements.txt
-
-│ ├──   tf-idf_baseline_model.py
 
 
 ├── DATA/
 
 
-│ ├──     READMEdata.md
+│ ├──     Metadata.md
 
-│ ├──     test-test-clean.csv
+│ ├──     Number of Tickets.png
 
-│ ├──     test.tsv
+│ ├──     Parking_Tickets.csv
 
-│ ├──     train-train-clean.csv
-
-│ ├──     train.tsv
-
-│ ├──     valid-valid-clean.csv
-
-│ ├──     valid.tsv
-
+│ ├──     Tickets by Hour.png
 
 
 ├── OUTPUT/
 
-│ ├──     confusion_matrix_baseline_bert_model.png
+│ ├──     feature_importance.csv
 
-│ ├──     confusion_matrix_binary_baseline_bert.png
+│ ├──     feature_importance.png
 
-│ ├──     confusion_matrix_binary_combined_bert_metadata.png
+│ ├──     final_predictions.csv
 
-│ ├──     confusion_matrix_combined_bert_metadata.png
+│ ├──     model_comparison_rmse.png
 
-│ ├──     confusion_matrix_tf-idf.png
+│ ├──     model_performance_metrics.csv
+
+│ ├──     poisson_predictions_vs_actual.png
+
+│ ├──     residual_plot.png
+
 
 # Section 3: Reproduction
 To reproduce the results in this repository, follow these steps:
