@@ -17,6 +17,58 @@ To set up all dependencies, refer to requirements.txt or manually install these 
 
 # Section 2: Documentation
 
+├── README.md # Project orientation and reproduction instructions
+
+
+├── LICENSE.md # MIT License for all code in this repository
+
+
+├── SCRIPTS/ # All source code scripts
+
+│ ├──   DS4002_Complete_Project1_FakeNewsClassification_ThunderPandas.ipynb
+
+│ ├──   bert_binary_model.py
+
+│ ├──   adding data into scripts for and adding scripts
+
+│ ├──   bert_multiclass_model.py
+
+│ ├──   requirements.txt
+
+│ ├──   tf-idf_baseline_model.py
+
+
+├── DATA/
+
+
+│ ├──     READMEdata.md
+
+│ ├──     test-test-clean.csv
+
+│ ├──     test.tsv
+
+│ ├──     train-train-clean.csv
+
+│ ├──     train.tsv
+
+│ ├──     valid-valid-clean.csv
+
+│ ├──     valid.tsv
+
+
+
+├── OUTPUT/
+
+│ ├──     confusion_matrix_baseline_bert_model.png
+
+│ ├──     confusion_matrix_binary_baseline_bert.png
+
+│ ├──     confusion_matrix_binary_combined_bert_metadata.png
+
+│ ├──     confusion_matrix_combined_bert_metadata.png
+
+│ ├──     confusion_matrix_tf-idf.png
+
 # Section 3: Reproduction
 To reproduce the results in this repository, follow these steps:
 1. **Clone this repository:**
